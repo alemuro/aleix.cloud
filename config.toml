@@ -5,6 +5,7 @@ theme = "hermit"
 
 [params]
   homeSubtitle = "SRE / Systems Engineer @ mango.com"
+  footerCopyright = ' &#183; <a href="https://github.com/Track3/hermit" target="_blank" rel="noopener">Theme Hermit</a>' 
 
   [[params.social]]
     name = "twitter"
@@ -21,3 +22,10 @@ theme = "hermit"
   [[params.social]]
     name = "github"
     url = "https://github.com/alemuro"
+
+[menu]
+
+  [[menu.main]]
+    name = "About me"
+    url = "about-me/"
+    weight = 20
