@@ -1,0 +1,19 @@
+baseURL = "http://example.org/"
+languageCode = "en-gb"
+title = "Aleix Murtra"
+theme = "hermit"
+
+[params]
+  homeSubtitle = "Sysops Engineer @ mango.com"
+
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/aleixmurtra"
+
+  [[params.social]]
+    name = "instagram"
+    url = "https://instagram.com/alemuro"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/alemuro"
