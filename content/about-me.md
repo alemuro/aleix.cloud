@@ -1,7 +1,7 @@
 ---
 title: "About me"
 date: 2019-02-19T19:23:49+01:00
-draft: true
+draft: false
 ---
 
 Hello, I'm Aleix Murtra! I'm currently working as a Systems Engineer at mango.com. Here you can check a little abstract about me :) 
