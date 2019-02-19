@@ -4,11 +4,15 @@ title = "Aleix Murtra"
 theme = "hermit"
 
 [params]
-  homeSubtitle = "Sysops Engineer @ mango.com"
+  homeSubtitle = "SRE / Systems Engineer @ mango.com"
 
   [[params.social]]
     name = "twitter"
     url = "https://twitter.com/aleixmurtra"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/aleix-murtra/"
 
   [[params.social]]
     name = "instagram"
