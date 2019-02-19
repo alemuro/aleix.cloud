@@ -5,7 +5,7 @@ theme = "hermit"
 
 [params]
   homeSubtitle = "SRE / Systems Engineer @ mango.com"
-  footerCopyright = ' &#183; <a href="https://github.com/Track3/hermit" target="_blank" rel="noopener">Theme Hermit</a>' 
+  footerCopyright = ' &#183; aleix.cloud' 
 
   [[params.social]]
     name = "twitter"

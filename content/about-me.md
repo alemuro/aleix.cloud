@@ -12,7 +12,19 @@ Hello, I'm Aleix Murtra! I'm currently working as a Systems Engineer at mango.co
 
 One of my growing interests is IoT. My goal is to domotize all home. Currently I have a couple of Raspberry Pi's that manages lamps, plugs, temperature sensors, cameras, TV's, music, and so on.
 
-I work in a lot of projects with my colegues, we love cloud computing and serverless technologies, so we try to learn and implement all of these. As an example, this site is built with Hugo and Netlify :)
+I work in a lot of projects with my colegues, we love cloud computing and serverless technologies, so we try to learn and implement all of these. As an example, this site is built with Hugo and is stored at Netlify :)
+
+Now, let me answer these short questions:
+
+* 📃️ Two **programming languages**: *JavaScript / NodeJS*, *Python*
+* ☁️ Two **clouds**: <a href="https://m.do.co/c/e75b71c1abc4" target="_blank">*Digital Ocean*</a>, *Amazon Web Services*
+* ⌨️ One **IDE**: *Visual Studio Code*
+* 🎮 Two **games**: <a href="https://amzn.to/2BK6UDa" target="_blank">*Watch Dogs 2*</a>, <a href="https://amzn.to/2V5Ctyw" target="_blank">*FIFA*</a>
+* 🎬 One **film**: *Star Wars - Rogue One*
+* 📺 Two **TV shows**: <a href="https://es.hboespana.com/series/silicon-valley/65878e1f-364b-4370-8dc2-938957be8040" target="_blank">*Silicon Valley*</a>, <a href="https://www.netflix.com/title/80057281" target="_blank">*Stranger Things*</a>
+* 🎵 Three **music groups**: *Kygo*, *My Chemical Romance*, *Porter Robinson*
+* 🎤 One **podcast**: <a href="https://mossegalapoma.cat/" target="_blank">*Mossega la Poma*</a>
+* 📚 One **book**: <a href="https://amzn.to/2V5zNRu" target="_blank">*Armada*</a>
 
 ---
 
