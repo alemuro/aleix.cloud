@@ -24,7 +24,7 @@ Now, let me answer these short questions:
 * 📺 Two **TV shows**: <a href="https://es.hboespana.com/series/silicon-valley/65878e1f-364b-4370-8dc2-938957be8040" target="_blank">*Silicon Valley*</a>, <a href="https://www.netflix.com/title/80057281" target="_blank">*Stranger Things*</a>
 * 🎵 Three **music groups**: *Kygo*, *My Chemical Romance*, *Porter Robinson*
 * 🎤 One **podcast**: <a href="https://mossegalapoma.cat/" target="_blank">*Mossega la Poma*</a>
-* 📚 One **book**: <a href="https://amzn.to/2V5zNRu" target="_blank">*Armada*</a>
+* 📚 One **book**: <a href="https://amzn.to/2V5zNRu" target="_blank">*Ready Player One*</a>
 
 ---
 
