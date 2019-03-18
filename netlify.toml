@@ -1,9 +1,4 @@
 [[redirects]]
-force = true
-from = "/gerard"
-status = 302
-to = "https://gerard.fun"
-[[redirects]]
 force = false
 from = "/booking"
 status = 302
