@@ -1,5 +1,10 @@
 [[redirects]]
-  from = "/booking"
-  to = "https://www.booking.com/?aid=1385028"
-  status = 302
-  force = false
+force = ""
+from = "/gerard"
+status = 302
+to = "https://gerard.fun"
+[[redirects]]
+force = false
+from = "/booking"
+status = 302
+to = "https://www.booking.com/?aid=1385028"
