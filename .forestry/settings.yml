@@ -4,14 +4,22 @@ auto_deploy: false
 admin_path: admin/
 webhook_url: 
 sections:
+- type: heading
+  label: Content
 - type: directory
   path: content
   label: Pages
   create: all
   match: "*"
+- type: heading
+  label: Settings
 - type: document
   path: config.toml
-  label: Config
+  label: Project
+- type: document
+  path: netlify.toml
+  label: Netlify
+  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
