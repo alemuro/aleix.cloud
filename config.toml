@@ -1,31 +1,23 @@
-baseURL = "http://example.org/"
+baseURL = "https://aleix.cloud"
 languageCode = "en-gb"
-title = "Aleix Murtra"
 theme = "hermit"
-
+title = "Aleix Murtra"
+[[menu.main]]
+name = "About me"
+url = "about-me/"
+weight = 20
 [params]
-  homeSubtitle = "SRE / Systems Engineer @ mango.com"
-  footerCopyright = ' &#183; aleix.cloud' 
-
-  [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/aleixmurtra"
-
-  [[params.social]]
-    name = "linkedin"
-    url = "https://www.linkedin.com/in/aleix-murtra/"
-
-  [[params.social]]
-    name = "instagram"
-    url = "https://instagram.com/alemuro"
-
-  [[params.social]]
-    name = "github"
-    url = "https://github.com/alemuro"
-
-[menu]
-
-  [[menu.main]]
-    name = "About me"
-    url = "about-me/"
-    weight = 20
+footerCopyright = " &#183; aleix.cloud"
+homeSubtitle = "SRE / Systems Engineer @ mango.com"
+[[params.social]]
+name = "twitter"
+url = "https://twitter.com/aleixmurtra"
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/aleix-murtra/"
+[[params.social]]
+name = "instagram"
+url = "https://instagram.com/alemuro"
+[[params.social]]
+name = "github"
+url = "https://github.com/alemuro"
