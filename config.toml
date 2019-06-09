@@ -8,7 +8,7 @@ url = "about-me/"
 weight = 20
 [params]
 footerCopyright = " &#183; aleix.cloud"
-homeSubtitle = "SRE / Systems Engineer @ mango.com"
+homeSubtitle = "Junior Site Reliability Engineer @ N26"
 [[params.social]]
 name = "twitter"
 url = "https://twitter.com/aleixmurtra"
