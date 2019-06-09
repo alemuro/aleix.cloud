@@ -29,7 +29,7 @@ Now, let me answer these short questions:
 
 ## Experience 📰
 
-#### (2019 to current) —	Junior Site Reliability Engineer <a href="[https://n26.com](https://shop.mango.com "https://shop.mango.com")" target="_blank">N26</a>
+#### (2019 to current) —	Junior Site Reliability Engineer at <a href="[https://n26.com](https://shop.mango.com "https://shop.mango.com")" target="_blank">N26</a>
 
 #### (2015 to 2019) —	Systems Engineer at <a href="[https://shop.mango.com](https://shop.mango.com "https://shop.mango.com")" target="_blank">mango.com</a>
 
