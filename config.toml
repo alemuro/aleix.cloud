@@ -2,22 +2,25 @@ baseURL = "https://aleix.cloud"
 languageCode = "en-gb"
 theme = "hermit"
 title = "Aleix Murtra"
-[[menu.main]]
-name = "About me"
-url = "about-me/"
-weight = 20
+
+[[menu]]
+    [[menu.main]]
+    name = "About me"
+    url = "about-me/"
+    weight = 20
+
 [params]
 footerCopyright = " &#183; aleix.cloud"
 homeSubtitle = "Junior Site Reliability Engineer @ N26"
-[[params.social]]
-name = "twitter"
-url = "https://twitter.com/aleixmurtra"
-[[params.social]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/aleix-murtra/"
-[[params.social]]
-name = "instagram"
-url = "https://instagram.com/alemuro"
-[[params.social]]
-name = "github"
-url = "https://github.com/alemuro"
+    [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/aleixmurtra"
+    [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/aleix-murtra/"
+    [[params.social]]
+    name = "instagram"
+    url = "https://instagram.com/alemuro"
+    [[params.social]]
+    name = "github"
+    url = "https://github.com/alemuro"
