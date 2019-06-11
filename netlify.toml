@@ -1,5 +1,5 @@
 [[redirects]]
-force = true
+force = false
 from = "/n26"
 status = 302
 to = "https://n26.com/r/aleixm9758"
