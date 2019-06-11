@@ -1,4 +1,9 @@
 [[redirects]]
+force = true
+from = "/n26"
+status = 302
+to = "https://n26.com/r/aleixm9758"
+[[redirects]]
 force = false
 from = "/booking"
 status = 302
