@@ -1,4 +1,5 @@
 <!-- Fathom - simple website analytics - https://github.com/usefathom/fathom -->
+{{if hugo.Environment | ne "development" }}
 <script>
     (function (f, a, t, h, o, m) {
         a[h] = a[h] || function () {
@@ -14,4 +15,5 @@
     fathom('set', 'siteId', 'OHDMV');
     fathom('trackPageview');
 </script>
+{{ end }}
 <!-- / Fathom -->

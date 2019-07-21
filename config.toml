@@ -2,16 +2,41 @@ baseURL = "https://aleix.cloud"
 languageCode = "en-gb"
 theme = "hermit"
 title = "Aleix Murtra"
+enableGitInfo = true
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+enableEmoji = true
+rssLimit = 10
+
+[author]
+    name = "Aleix Murtra"
 
 [menu]
+
+
+
     [[menu.main]]
     name = "About me"
     url = "about-me/"
     weight = 20
 
 [params]
-footerCopyright = " &#183; aleix.cloud"
-homeSubtitle = "Junior Site Reliability Engineer @ N26"
+
+    themeColor = "#ffffff"
+    bgImg = "https://res.cloudinary.com/dtikuanda/image/upload/c_scale,q_auto,w_1920/v1563702307/4k-wallpaper-clouds-dawn-1261728_geguhc.jpg"
+
+    dateform        = "Jan 2, 2006"
+    dateformShort   = "Jan 2"
+    dateformNum     = "2006-01-02"
+    dateformNumTime = "2006-01-02 15:04 -0700"
+
+    footerCopyright = " &#183; aleix.cloud &#183; <a href='https://www.pexels.com/photo/scenic-view-of-mountains-during-dawn-1261728/' target='_blank'>Background photo</a>"
+    homeSubtitle = "Junior Site Reliability Engineer @ N26"
+
+    justifyContent = true
+
+    customCSS = [ "css/personalized.css" ]
+
     [[params.social]]
     name = "twitter"
     url = "https://twitter.com/aleixmurtra"
