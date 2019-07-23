@@ -29,9 +29,9 @@ Now, let me answer these short questions:
 
 ## Experience 📰
 
-#### (2019 to current) —	Junior Site Reliability Engineer at <a href="[https://n26.com](https://shop.mango.com "https://shop.mango.com")" target="_blank">N26</a>
+#### (2019 to current) —	Junior Site Reliability Engineer at <a href="https://n26.com" target="_blank">N26</a>
 
-#### (2015 to 2019) —	Systems Engineer at <a href="[https://shop.mango.com](https://shop.mango.com "https://shop.mango.com")" target="_blank">mango.com</a>
+#### (2015 to 2019) —	Systems Engineer at <a href="https://shop.mango.com" target="_blank">mango.com</a>
 
 I enjoy working in a small but funny team managing infrastructure regarding MANGO e-commerce site. We work with cloud technologies, CDN's, containers, and so on. We enjoy so much creating scripts/templates that automatize things and make our live easier.
 
