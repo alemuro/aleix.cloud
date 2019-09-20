@@ -1,4 +1,9 @@
 [[redirects]]
+force = true
+from = "/github"
+status = "301"
+to = "https://github.com/alemuro"
+[[redirects]]
 force = false
 from = "/a/cC7r"
 status = 302
