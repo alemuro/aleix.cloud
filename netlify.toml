@@ -1,7 +1,7 @@
 [[redirects]]
-force = true
+force = false
 from = "/github"
-status = "301"
+status = 301
 to = "https://github.com/alemuro"
 [[redirects]]
 force = false
