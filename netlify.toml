@@ -5,11 +5,6 @@ status = "301"
 to = "https://github.com/alemuro"
 [[redirects]]
 force = false
-from = "/a/cC7r"
-status = 302
-to = "https://doodle.com/poll/y23qt788dp7vr5p6?utm_campaign=poll_added_participant_admin&utm_medium=email&utm_source=poll_transactional&utm_content=gotopoll-cta#table"
-[[redirects]]
-force = false
 from = "/n26"
 status = 302
 to = "https://n26.com/r/aleixm9758"
