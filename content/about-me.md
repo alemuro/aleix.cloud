@@ -3,7 +3,7 @@ title: About me
 date: 2019-02-19T18:23:49.000+00:00
 
 ---
-Hello, I'm Aleix Murtra! I'm currently working as a Junior Site Reliability Engineer at N26. Here you can check a little abstract about me :)
+Hello, I'm Aleix Murtra! I'm currently working as a *Cloud Site Reliability Engineer* at *Capside | NTT*. Here you can check a little abstract about me :)
 
 ***
 
@@ -29,15 +29,17 @@ Now, let me answer these short questions:
 
 ## Experience 📰
 
-#### (2019 to current) —	Junior Site Reliability Engineer at <a href="https://n26.com" target="_blank">N26</a>
+#### (2020 to current) —    Cloud Site Reliability Engineer at <a href="https://capside.com" target="_blank">Capside | NTT</a>
 
-#### (2015 to 2019) —	Systems Engineer at <a href="https://shop.mango.com" target="_blank">mango.com</a>
+#### (Q2/2019 to 2020) —	Site Reliability Engineer at <a href="https://n26.com" target="_blank">N26</a>
 
-I enjoy working in a small but funny team managing infrastructure regarding MANGO e-commerce site. We work with cloud technologies, CDN's, containers, and so on. We enjoy so much creating scripts/templates that automatize things and make our live easier.
+#### (2015 to Q2/2019) —	Systems Engineer at <a href="https://shop.mango.com" target="_blank">mango.com</a>
+
+I enjoyed working in a small but funny team managing infrastructure regarding MANGO e-commerce site. We work with cloud technologies, CDN's, containers, and so on. We enjoy so much creating scripts/templates that automatize things and make our live easier.
 
 #### (2014 to 2015) — Systems Engineer intern at <a href="https://mat.upc.edu/ca" target="_blank">MA1/UPC</a>
 
-Here I managed a small on-premise datacenter. In this job it was the first time I made a setup for a production server!
+I managed a very small on-premise datacenter. In this job it was the first time I made a setup for a production server!
 
 #### (2013 to 2014) — Systems Engineer intern at <a href="http://dafib.upc.edu/" target="_blank">DAFIB/UPC</a>
 
