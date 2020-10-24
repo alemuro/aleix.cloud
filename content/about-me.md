@@ -3,7 +3,7 @@ title: About me
 date: 2019-02-19T18:23:49.000+00:00
 
 ---
-Hello, I'm Aleix Murtra! I'm currently working as a *Cloud Site Reliability Engineer* at *Capside | NTT*. Here you can check a little abstract about me :)
+Hello, I'm Aleix Murtra! I'm currently working as a *Site Reliability Engineer* at *MANGO*. Here you can check a little abstract about me :)
 
 ***
 
@@ -29,7 +29,9 @@ Now, let me answer these short questions:
 
 ## Experience 📰
 
-#### (2020 to current) —    Cloud Site Reliability Engineer at <a href="https://capside.com" target="_blank">Capside | NTT</a>
+#### (Q4/2020 to current) —    Site Reliability Engineer at <a href="https://shop.mango.com" target="_blank">mango.com</a>
+
+#### (2020 to Q4/2020) —    Cloud Site Reliability Engineer at <a href="https://capside.com" target="_blank">Capside | NTT</a>
 
 #### (Q2/2019 to 2020) —	Site Reliability Engineer at <a href="https://n26.com" target="_blank">N26</a>
 

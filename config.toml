@@ -36,7 +36,7 @@ rssLimit = 10
     dateformNumTime = "2006-01-02 15:04 -0700"
 
     footerCopyright = " &#183; aleix.cloud &#183; <a href='https://www.pexels.com/photo/scenic-view-of-mountains-during-dawn-1261728/' target='_blank'>Background photo</a>"
-    homeSubtitle = "Cloud Site Reliability Engineer @ Capside | NTT"
+    homeSubtitle = "Site Reliability Engineer @ MANGO"
 
     justifyContent = true
 
@@ -50,7 +50,7 @@ rssLimit = 10
     url = "https://www.linkedin.com/in/aleix-murtra/"
     [[params.social]]
     name = "instagram"
-    url = "https://instagram.com/alemuro"
+    url = "https://instagram.com/aleixmurtra"
     [[params.social]]
     name = "github"
     url = "https://github.com/alemuro"
