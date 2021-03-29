@@ -29,21 +29,21 @@ Now, let me answer these short questions:
 
 ## Experience 📰
 
-#### (Q4/2020 to current) —    Site Reliability Engineer at <a href="https://shop.mango.com" target="_blank">mango.com</a>
+#### (Q4/2020 to current) —    Site Reliability Engineer at [mango.com](http://mango.cat)
 
-#### (2020 to Q4/2020) —    Cloud Site Reliability Engineer at <a href="https://capside.com" target="_blank">Capside | NTT</a>
+#### (2020 to Q4/2020) —    Cloud Site Reliability Engineer at [Capside | NTT](https://capside.com)
 
-#### (Q2/2019 to 2020) —	Site Reliability Engineer at <a href="https://n26.com" target="_blank">N26</a>
+#### (Q2/2019 to 2020) —	Site Reliability Engineer at [N26](https://n26.com)
 
-#### (2015 to Q2/2019) —	Systems Engineer at <a href="https://shop.mango.com" target="_blank">mango.com</a>
+#### (2015 to Q2/2019) —	Systems Engineer at [mango.com](http://mango.cat)
 
 I enjoyed working in a small but funny team managing infrastructure regarding MANGO e-commerce site. We work with cloud technologies, CDN's, containers, and so on. We enjoy so much creating scripts/templates that automatize things and make our live easier.
 
-#### (2014 to 2015) — Systems Engineer intern at <a href="https://mat.upc.edu/ca" target="_blank">MA1/UPC</a>
+#### (2014 to 2015) — Systems Engineer intern at [MA1/UPC](https://mat.upc.edu/ca)
 
 I managed a very small on-premise datacenter. In this job it was the first time I made a setup for a production server!
 
-#### (2013 to 2014) — Systems Engineer intern at <a href="http://dafib.upc.edu/" target="_blank">DAFIB/UPC</a>
+#### (2013 to 2014) — Systems Engineer intern at [DAFIB/UPC](http://dafib.upc.edu/)
 
 My first job! I developed a new webpage for this association, I managed their server configuring an Apache2, LDAP, updates...
 
@@ -51,6 +51,6 @@ My first job! I developed a new webpage for this association, I managed their se
 
 ## Education 🎓
 
-#### (2015 to 2016) — Master in Cybersecurity at <a href="https://www.uoc.edu" target="_blank">UOC</a>
+#### (2015 to 2016) — Master in Cybersecurity at [UOC](https://www.uoc.edu)
 
-#### (2011 to 2015) — Bachelor's degree in Computer Science at <a href="https://www.upc.edu" target="_blank">FIB-UPC</a>
+#### (2011 to 2015) — Bachelor's degree in Computer Science at [FIB-UPC](https://www.upc.edu)

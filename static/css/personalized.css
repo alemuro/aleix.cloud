@@ -1,17 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
 .bg-img {
     opacity: .7
 }
 
-/* body,
+html {
+    background: white;
+}
+
+body,
 button,
 input,
 select,
 textarea,
 a {
     color: #000000;
+    font-family: 'Inter', sans-serif;
 }
 
 a:hover {
     color: #000000;
     text-decoration: underline;
-} */
+}
+
+#site-header {
+    background-color: black;
+    color: white;
+}
+
+#site-header a {
+    color: white;
+}
