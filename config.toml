@@ -13,11 +13,9 @@ rssLimit = 10
 
 [menu]
 
-
-
     [[menu.main]]
-    name = "Blog"
-    url = "https://blog.aleix.cloud"
+    name = "Projects"
+    url = "projects/"
     weight = 20
 
     [[menu.main]]
@@ -26,7 +24,6 @@ rssLimit = 10
     weight = 20
 
 [params]
-
     themeColor = "#ffffff"
     bgImg = "https://res.cloudinary.com/dtikuanda/image/upload/c_scale,q_auto,w_1920/v1563702307/4k-wallpaper-clouds-dawn-1261728_geguhc.jpg"
 
