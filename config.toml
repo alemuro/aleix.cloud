@@ -33,7 +33,7 @@ rssLimit = 10
     dateformNumTime = "2006-01-02 15:04 -0700"
 
     footerCopyright = " &#183; aleix.cloud &#183; <a href='https://www.pexels.com/photo/scenic-view-of-mountains-during-dawn-1261728/' target='_blank'>Background photo</a>"
-    homeSubtitle = "Site Reliability Engineer @ MANGO"
+    homeSubtitle = "DevOps Engineer @ Wallbox"
 
     justifyContent = true
 
