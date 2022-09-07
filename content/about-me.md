@@ -15,7 +15,7 @@ I work in a lot of projects with my colegues, we love cloud computing and server
 
 Now, let me answer these short questions:
 
-* 📃️ Two **programming languages**: _JavaScript / NodeJS_, _Python_
+* 📃️ Two **programming languages**: _Golang_, _JavaScript / NodeJS_
 * ☁️ Two **clouds**: _Hetzner Cloud_, _Amazon Web Services_
 * ⌨️ One **IDE**: _Visual Studio Code_
 * 🎮 Two **games**: <a href="https://amzn.to/2BK6UDa" target="_blank">_Watch Dogs 2_</a>, _Valorant_
